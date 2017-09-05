@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Kate is Amazing. Buy your whiskey from Kate!'
+landing-title: 'Kate is Amazing. Beautiful & Super Cool Too'
 description: null
 image: null
 author: null
