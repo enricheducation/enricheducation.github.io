@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Risk-Free Trial</h3>
 				</header>
-				<p>We understand that you're looking at joining other tutoring establishments. Don't worry. We offer risk-free trial lessons so you can have a feel for your time here and leave without paying a cent. We're super confident you'll have a posiitive time with us. </p>
+				<p>We understand that you're looking at joining other tutoring establishments. Don't worry. We offer risk-free trial lessons so you can have a feel during your time here without paying a cent. We're super confident you'll have a posiitive time with us. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Who We Are</h2>
 		</header>
-		<p>We drive results. We want you to learn from leaders. We're happy to say that we've been there, done that. We held full scholarships  from Australia's leading university, UNSW - while scoring the highest result possible: ATAR 99.95. We also attended Australia's #1 high school, 'James Ruse'. It's safe to say that you can trust us. We want you to achieve your potential.</p>
+		<p>We drive results. We want you to learn from leaders. We're happy to say that we've been there, done that. We held full scholarships  from Australia's leading university, UNSW - while scoring the highest result possible: ATAR 99.95. We also attended Australia's #1 high school: 'James Ruse'. It's safe to say that you can trust us. Let us help you trust us to achieve your potential.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
