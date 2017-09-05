@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Enrich'
+landing-title: 'Kate is Amazing. Buy your whiskey from Kate!'
 description: null
 image: null
 author: null
