@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Kate is Amazing. Beautiful & Super Cool Too'
+landing-title: 'Welcome to Enrich'
 description: null
 image: null
 author: null
