@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: The Enrich Way
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Grit over talent. We will show you how to get results. Fast.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Experience Matters</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>With a combined 35 years of actual classroom teaching experience, you can be sure we know what it takes to reach the next level. From helping students achieve a first rank in their school exam to providing a blueprint in gaining entry to Australia's #1 High School - we got all bases covered. </p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Real Talk</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Ever wondered what you like to do post-schooling life? Unlike other scrupulous "tutors" out there, we like to tell you the truth. How? Outside of the classroom, we are surgeons, teachers, lawyers in Australia's leading law firm, bankers in the world's leading investment bank and most importatly, your mentor to give advice whenever you need it. Yes, we are quite well connected. We wouldn't think you like it any other way.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>24/7 Help. We Mean It.</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Having seen the rise in 1 on 1 tutoring requests, we like to be there for students every step in their school journey. That is why we are the first tuition company in Australia to incorporate Slack in our teaching environment. Now, you get to ask your mentor any question, anytime throughout the day. No more waiting. We are always there to help you.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Risk-Free Trial</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We understand that you're looking at joining other tutoring establishments. Don't worry. We offer risk-free trial lessons so you can have a feel for your time here and leave without paying a cent. We're super confident you'll have a posiitive time with us. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Who We Are</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>We drive results. We want you to learn from leaders. We're happy to say that we've been there, done that. We held full scholarships  from Australia's leading university, UNSW - while scoring the highest result possible: ATAR 99.95. We also attended Australia's #1 high school, 'James Ruse'. It's safe to say that you can trust us. We want you to achieve your potential.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
